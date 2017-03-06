@@ -1,0 +1,2 @@
+the dryer run for 2 min than it stop.
+The dryer turns on and spins but doesn't heat up to dry the clothes.
