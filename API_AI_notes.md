@@ -12,9 +12,9 @@ Please refer to the https://docs.api.ai/docs/key-concepts for detailed info abou
 * __Symptoms__:   
 it is better to define Domain specified symptoms.
 Example: Washer_Symptoms: Leaking.
-Frige, Washer, Dryer, Dish-washer all can leak.
+Fridge, Washer, Dryer, Dish-washer all can leak.
 So the leaking symptom makes sense in the Domain context.
 ## Training
 1. Upload Examples: and tag them using the provided Entities.
-2. The bot will save the conversation whether recognized or not in Trainig -> History.  
+2. The bot will save the conversation whether recognized or not in Training -> History.  
   tag the unsuccessful interactions to help the Machine learn the new patterns.
