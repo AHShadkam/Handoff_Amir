@@ -15,3 +15,6 @@ Example: Washer_Symptoms: Leaking.
 Frige, Washer, Dryer, Dish-washer all can leak.
 So the leaking symptom makes sense in the Domain context.
 ## Training
+1. Upload Examples: and tag them using the provided Entities.
+2. The bot will save the conversation whether recognized or not in Trainig -> History.  
+  tag the unsuccessful interactions to help the Machine learn the new patterns.
